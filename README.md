@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nidhinR1998
-- 👀 I’m interested in Java , HTML, CSS, JavaScripts
+- 👀 I’m interested in Java , HTML, CSS, JavaScripts,Flutter,Angular
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
