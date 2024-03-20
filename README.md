@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nidhinR1998
-- 👀 I’m interested in Java , HTML, CSS, JavaScripts,Angular
+- 👀 I’m interested in Java , Spring Boot, HTML, CSS, JavaScripts,Angular
 - 💞️ I’m looking to collaborate on 
 - 📫 You can reach me <nidhinrajesh1998@gmail.com>
 
