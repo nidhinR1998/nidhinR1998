@@ -1,49 +1,43 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About @nidhinR1998</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-        .container {
-            max-width: 800px;
-            margin: 50px auto;
-            padding: 20px;
-            background-color: #fff;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h1 {
-            color: #444;
-        }
-        p {
-            font-size: 1.2em;
-        }
-        a {
-            color: #007BFF;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Hi there, I'm @nidhinR1998! 👋</h1>
-        <p>🌱 <strong>Eager Learner:</strong> I have a passion for <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, and <strong>Angular</strong>.</p>
-        <p>🚀 <strong>Collaborator:</strong> Always on the lookout for exciting projects to collaborate on.</p>
-        <p>📬 <strong>Let's Connect:</strong> Feel free to reach out to me at <a href="mailto:nidhinrajesh1998@gmail.com">nidhinrajesh1998@gmail.com</a>.</p>
-        <p>🌐 <strong>Visit My Website:</strong> <a href="http://nidhinr1998.com" target="_blank">nidhinr1998.com</a></p>
-        <p>Let's build something amazing together!</p>
-    </div>
-</body>
+# Hi there, I'm @nidhinR1998! 👋
 
-</html>
+![Welcome Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile!)
+
+## 🌱 Eager Learner
+I have a passion for:
+- **Java**
+- **Spring Boot**
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Angular**
+
+## 🚀 Collaborator
+I'm always on the lookout for exciting projects to collaborate on. Let's connect and create something extraordinary!
+
+## 📬 Let's Connect
+Feel free to reach out to me:
+- **Email:** [nidhinrajesh1998@gmail.com](mailto:nidhinrajesh1998@gmail.com)
+- **LinkedIn:** [Nidhin Rajesh](https://www.linkedin.com/in/nidhinr1998/)
+
+## 🌐 Visit My Website
+Check out my personal website: [nidhinr1998.com](http://nidhinr1998.com)
+
+---
+
+## 📈 GitHub Stats
+![Nidhin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhinR1998&show_icons=true&theme=radical)
+
+## 🛠️ Technologies & Tools
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot)
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+
+## ✨ Fun Fact
+When I'm not coding, you might find me exploring new technologies, hiking, or reading tech blogs.
+
+---
+
+Let's build something amazing together!
