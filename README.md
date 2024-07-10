@@ -1,4 +1,4 @@
-# Hi there, I'm @nidhinR1998! 👋
+# Hi there, I'm NIDHIN ! 👋
 
 ![Welcome Banner](https://via.placeholder.com/800x200/3498db/ffffff?text=Welcome+to+My+GitHub+Profile!)
 
