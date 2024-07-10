@@ -30,7 +30,7 @@ Feel free to reach out to me:
 ---
 
 ## 🌐 Visit My Website
-Check out my personal website: [nidhinr1998.com](http://nidhinr1998.com)
+Check out my personal website: [nidhinr1998.com](https://nidhinr1998.github.io/nidhinportfolio/)
 
 ---
 
