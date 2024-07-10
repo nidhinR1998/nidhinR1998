@@ -1,6 +1,6 @@
 # Hi there, I'm @nidhinR1998! 👋
 
-![Welcome Banner](https://placehold.it/800x200/3498db/ffffff?text=Welcome+to+My+GitHub+Profile!)
+![Welcome Banner](https://via.placeholder.com/800x200/3498db/ffffff?text=Welcome+to+My+GitHub+Profile!)
 
 ---
 
@@ -18,7 +18,7 @@ I have a passion for:
 ## 🚀 Collaborator
 I'm always on the lookout for exciting projects to collaborate on. Let's connect and create something extraordinary!
 
-![Collaboration Banner](https://placehold.it/800x200/9b59b6/ffffff?text=Let%27s+Collaborate%21)
+![Collaboration Banner](https://via.placeholder.com/800x200/9b59b6/ffffff?text=Let%27s+Collaborate%21)
 
 ---
 
@@ -67,11 +67,11 @@ When I'm not coding, you might find me exploring new technologies, hiking, or re
 
 ### Projects Showcase
 
-- **Project Name**: Description of the project. [Repository Link](https://github.com/nidhinR1998/Food-Check-List-WebApp)
-  ![Project Screenshot](https://via.placeholder.com/800x200)
+- **Food Checklist Web App**: A web application for managing food checklists. [Repository Link](https://github.com/nidhinR1998/Food-Check-List-WebApp)
+  ![Project Screenshot](https://via.placeholder.com/800x400.png?text=Food+Checklist+Web+App)
 
 - **Another Project**: Description goes here. [Repository Link](link-to-repository)
-  ![Project Demo GIF](https://via.placeholder.com/800x200)
+  ![Project Demo GIF](https://via.placeholder.com/800x400.png)
 
 ---
 
