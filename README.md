@@ -1,6 +1,6 @@
 # Hi there, I'm @nidhinR1998! 👋
 
-![Welcome Banner](https://media.giphy.com/media/xUPGcJGy8I928yIlAQ/giphy.gif)
+![Welcome Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+Colorful+GitHub+Profile!)
 
 ---
 
@@ -13,14 +13,12 @@ I have a passion for:
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
 - ![Angular](https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=angular)
 
-![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-
 ---
 
 ## 🚀 Collaborator
 I'm always on the lookout for exciting projects to collaborate on. Let's connect and create something extraordinary!
 
-![Collaboration GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+![Collaboration Banner](https://via.placeholder.com/800x200.png?text=Let's+Collaborate!)
 
 ---
 
@@ -53,15 +51,11 @@ Check out my personal website: [nidhinr1998.com](http://nidhinr1998.com)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code)
 
-![Tech GIF](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
-
 ---
 
 ## ✨ Fun Fact
 When I'm not coding, you might find me exploring new technologies, hiking, or reading tech blogs.
 
-![Fun Fact GIF](https://media.giphy.com/media/3oEduF0k0v1G6jBESk/giphy.gif)
-
 ---
 
-![Footer Banner](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+![Footer Banner](https://via.placeholder.com/800x200.png?text=Let's+build+something+amazing+together!)
