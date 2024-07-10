@@ -50,6 +50,10 @@ Check out my personal website: [nidhinr1998.com](http://nidhinr1998.com)
 ![Git](https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code)
+![SQL](https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=sql)
+![Oracle](https://img.shields.io/badge/-Oracle-red?style=for-the-badge&logo=oracle)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql)
+![Abinitio](https://img.shields.io/badge/-Abinitio-lightgrey?style=for-the-badge&logo=abinitio)
 
 ---
 
