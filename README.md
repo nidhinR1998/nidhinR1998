@@ -6,17 +6,19 @@
 
 ## 🌱 Eager Learner
 I have a passion for:
-- **Java**
-- **Spring Boot**
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **Angular**
+- ![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java)
+- ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?style=for-the-badge&logo=spring-boot)
+- ![HTML](https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html5)
+- ![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
+- ![Angular](https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=angular)
 
 ---
 
 ## 🚀 Collaborator
 I'm always on the lookout for exciting projects to collaborate on. Let's connect and create something extraordinary!
+
+![Collaboration GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 ---
 
@@ -53,6 +55,8 @@ Check out my personal website: [nidhinr1998.com](http://nidhinr1998.com)
 
 ## ✨ Fun Fact
 When I'm not coding, you might find me exploring new technologies, hiking, or reading tech blogs.
+
+![Fun Fact GIF](https://media.giphy.com/media/3oEduF0k0v1G6jBESk/giphy.gif)
 
 ---
 
