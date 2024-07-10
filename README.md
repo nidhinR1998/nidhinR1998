@@ -1,6 +1,6 @@
 # Hi there, I'm @nidhinR1998! 👋
 
-![Welcome Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+Colorful+GitHub+Profile!)
+![Welcome Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile&bg=%23f39c12&fg=%23ffffff)
 
 ---
 
@@ -18,7 +18,7 @@ I have a passion for:
 ## 🚀 Collaborator
 I'm always on the lookout for exciting projects to collaborate on. Let's connect and create something extraordinary!
 
-![Collaboration Banner](https://via.placeholder.com/800x200.png?text=Let's+Collaborate!)
+![Collaboration Banner](https://via.placeholder.com/800x200.png?text=Let%27s+Collaborate%21&bg=%239b59b6&fg=%23ffffff)
 
 ---
 
@@ -58,4 +58,4 @@ When I'm not coding, you might find me exploring new technologies, hiking, or re
 
 ---
 
-![Footer Banner](https://via.placeholder.com/800x200.png?text=Let's+build+something+amazing+together!)
+![Footer Banner](https://via.placeholder.com/800x200.png?text=Let%27s+build+something+amazing+together%21&bg=%232ecc71&fg=%23ffffff)
