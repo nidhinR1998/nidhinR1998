@@ -75,15 +75,6 @@ When I'm not coding, you might find me exploring new technologies, hiking, or re
 
 ---
 
-### Skills and Expertise
-
-- ![SQL](https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=sql)
-- ![Oracle](https://img.shields.io/badge/-Oracle-red?style=for-the-badge&logo=oracle)
-- ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql)
-- ![Abinitio](https://img.shields.io/badge/-Abinitio-lightgrey?style=for-the-badge&logo=abinitio)
-
----
-
 ### Achievements and Awards
 
 - Certificate in Advanced Java Programming, XYZ Institute, 2023
