@@ -39,7 +39,7 @@ Check out my personal website: [nidhinr1998.com](http://nidhinr1998.com)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhinR1998&layout=compact&theme=radical)
 
 ### Monthly Activity
-![Monthly Activity](URL_TO_YOUR_ACTIVITY_GRAPH_IMAGE)
+![Monthly Activity](https://img.shields.io/github/commit-activity/m/nidhinR1998/nidhinR1998?color=4c8bf5&style=for-the-badge)
 
 ---
 
