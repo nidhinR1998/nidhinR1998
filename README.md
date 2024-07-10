@@ -1,6 +1,6 @@
-# Hi there, I'm @Nidhin R! 👋
+# Hi there, I'm @nidhinR1998! 👋
 
-![Welcome Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile!)
+![Welcome Banner](https://media.giphy.com/media/xUPGcJGy8I928yIlAQ/giphy.gif)
 
 ---
 
@@ -12,6 +12,8 @@ I have a passion for:
 - ![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
 - ![Angular](https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=angular)
+
+![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 ---
 
@@ -41,15 +43,17 @@ Check out my personal website: [nidhinr1998.com](http://nidhinr1998.com)
 ---
 
 ## 🛠️ Technologies & Tools
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot)
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?style=for-the-badge&logo=spring-boot)
+![HTML](https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Angular](https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=angular)
+![Git](https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code)
+
+![Tech GIF](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
 
 ---
 
@@ -60,4 +64,4 @@ When I'm not coding, you might find me exploring new technologies, hiking, or re
 
 ---
 
-![Footer Banner](https://via.placeholder.com/800x200.png?text=Let's+build+something+amazing+together!)
+![Footer Banner](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
