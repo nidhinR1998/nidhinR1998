@@ -65,4 +65,36 @@ When I'm not coding, you might find me exploring new technologies, hiking, or re
 
 ---
 
+### Projects Showcase
+
+- **Project Name**: Description of the project. [Repository Link](link-to-repository)
+  ![Project Screenshot](project-screenshot.png)
+
+- **Another Project**: Description goes here. [Repository Link](link-to-repository)
+  ![Project Demo GIF](project-demo.gif)
+
+---
+
+### Skills and Expertise
+
+- ![SQL](https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=sql)
+- ![Oracle](https://img.shields.io/badge/-Oracle-red?style=for-the-badge&logo=oracle)
+- ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql)
+- ![Abinitio](https://img.shields.io/badge/-Abinitio-lightgrey?style=for-the-badge&logo=abinitio)
+
+---
+
+### Achievements and Awards
+
+- Certificate in Advanced Java Programming, XYZ Institute, 2023
+- Winner of Best Web Application Award, Tech Expo 2022
+
+---
+
+### Personal Interests
+
+When I'm not coding, I enjoy hiking in the mountains, exploring new cuisines, and reading sci-fi novels.
+
+---
+
 ![Footer Banner](https://via.placeholder.com/800x200/2ecc71/ffffff?text=Let%27s+build+something+amazing+together%21)
