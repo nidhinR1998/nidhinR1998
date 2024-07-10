@@ -67,7 +67,7 @@ When I'm not coding, you might find me exploring new technologies, hiking, or re
 
 ### Projects Showcase
 
-- **Project Name**: Description of the project. [Repository Link](link-to-repository)
+- **Project Name**: Description of the project. [Repository Link](https://github.com/nidhinR1998/Food-Check-List-WebApp)
   ![Project Screenshot](project-screenshot.png)
 
 - **Another Project**: Description goes here. [Repository Link](link-to-repository)
