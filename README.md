@@ -2,6 +2,8 @@
 
 ![Welcome Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile!)
 
+---
+
 ## 🌱 Eager Learner
 I have a passion for:
 - **Java**
@@ -11,13 +13,19 @@ I have a passion for:
 - **JavaScript**
 - **Angular**
 
+---
+
 ## 🚀 Collaborator
 I'm always on the lookout for exciting projects to collaborate on. Let's connect and create something extraordinary!
+
+---
 
 ## 📬 Let's Connect
 Feel free to reach out to me:
 - **Email:** [nidhinrajesh1998@gmail.com](mailto:nidhinrajesh1998@gmail.com)
 - **LinkedIn:** [Nidhin Rajesh](https://www.linkedin.com/in/nidhinr1998/)
+
+---
 
 ## 🌐 Visit My Website
 Check out my personal website: [nidhinr1998.com](http://nidhinr1998.com)
@@ -26,6 +34,9 @@ Check out my personal website: [nidhinr1998.com](http://nidhinr1998.com)
 
 ## 📈 GitHub Stats
 ![Nidhin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhinR1998&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhinR1998&layout=compact&theme=radical)
+
+---
 
 ## 🛠️ Technologies & Tools
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
@@ -34,10 +45,15 @@ Check out my personal website: [nidhinr1998.com](http://nidhinr1998.com)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+
+---
 
 ## ✨ Fun Fact
 When I'm not coding, you might find me exploring new technologies, hiking, or reading tech blogs.
 
 ---
 
-Let's build something amazing together!
+![Footer Banner](https://via.placeholder.com/800x200.png?text=Let's+build+something+amazing+together!)
