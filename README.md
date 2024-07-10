@@ -25,7 +25,7 @@ I'm always on the lookout for exciting projects to collaborate on. Let's connect
 ## 📬 Let's Connect
 Feel free to reach out to me:
 - **Email:** [nidhinrajesh1998@gmail.com](mailto:nidhinrajesh1998@gmail.com)
-- **LinkedIn:** [Nidhin Rajesh](https://www.linkedin.com/in/nidhinr1998/)
+- **LinkedIn:** [Nidhin Rajesh](https://www.linkedin.com/in/nidhin-r-7a2469222)
 
 ---
 
