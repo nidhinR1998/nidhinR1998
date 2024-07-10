@@ -38,6 +38,9 @@ Check out my personal website: [nidhinr1998.com](http://nidhinr1998.com)
 ![Nidhin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhinR1998&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhinR1998&layout=compact&theme=radical)
 
+### Monthly Activity
+![Monthly Activity](https://activity-graph.herokuapp.com/graph?username=nidhinR1998&bg_color=ffffff&color=4c8bf5&line=4c8bf5&point=ffffff&hide_border=true)
+
 ---
 
 ## 🛠️ Technologies & Tools
