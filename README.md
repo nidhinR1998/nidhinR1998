@@ -29,7 +29,7 @@ I have a passion for:
 I'm always on the lookout for exciting projects to collaborate on. Let's connect and create something extraordinary!
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x200/9b59b6/ffffff?text=Let%27s+Collaborate%21">
+  <img src="https://via.placeholder.com/800x200/9b59b6/ffffff?text=Let%27s+Collaborate%21" style="border-radius: 10px;">
 </p>
 
 ---
@@ -111,21 +111,26 @@ When I'm not coding, I enjoy hiking in the mountains, exploring new cuisines, an
 
 ---
 
-## 🤝 Contribution
-
-<div align="center" style="border: 2px solid #3498db; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-  <h3>Contribution</h3>
-  Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/nidhinR1998/nidhinR1998/issues).
+<div align="center">
+  <h2 style="color: #3498db; border-bottom: 2px solid #3498db; padding-bottom: 5px;">Contribution</h2>
 </div>
 
-<div align="center" style="border: 2px solid #9b59b6; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-  <h3>Contribution Visual Representation</h3>
-  <img src="https://via.placeholder.com/800x200/3498db/ffffff?text=Contribute+Here%21" style="border-radius: 10px;">
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/nidhinR1998/nidhinR1998/issues).
+
+---
+
+<div align="center">
+  <h2 style="color: #9b59b6; border-bottom: 2px solid #9b59b6; padding-bottom: 5px;">Contribution Visual Representation</h2>
+  <p align="center">
+    <img src="https://via.placeholder.com/800x200/3498db/ffffff?text=Contribute+Here%21" style="border-radius: 10px;">
+  </p>
 </div>
 
-<div align="center" style="border: 2px solid #2ecc71; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-  <h3>Getting Started</h3>
-  To get a local copy up and running follow these simple steps.
+---
+
+<div align="center">
+  <h2 style="color: #2ecc71; border-bottom: 2px solid #2ecc71; padding-bottom: 5px;">Getting Started</h2>
+  <p>To get a local copy up and running follow these simple steps:</p>
   <ol>
     <li><strong>Fork the Project</strong></li>
     <li><strong>Clone the Repo</strong>: <code>git clone https://github.com/your-username/nidhinR1998.git</code></li>
@@ -137,8 +142,10 @@ When I'm not coding, I enjoy hiking in the mountains, exploring new cuisines, an
   </ol>
 </div>
 
-<div align="center" style="border: 2px solid #f39c12; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-  <h3>Contribution Guidelines</h3>
+---
+
+<div align="center">
+  <h2 style="color: #f39c12; border-bottom: 2px solid #f39c12; padding-bottom: 5px;">Contribution Guidelines</h2>
   <ol>
     <li><strong>Check for open issues</strong> or open a new issue to start a discussion around a feature idea or a bug.</li>
     <li><strong>Fork the repository</strong> on GitHub to start making your changes.</li>
