@@ -113,17 +113,17 @@ When I'm not coding, I enjoy hiking in the mountains, exploring new cuisines, an
 
 ## 🤝 Contribution
 
-<div align="center" style="border: 3px solid #3498db; padding: 20px; margin-bottom: 20px;">
+<div align="center" style="border: 2px solid #3498db; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <h3>Contribution</h3>
   Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/nidhinR1998/nidhinR1998/issues).
 </div>
 
-<div align="center" style="border: 3px solid #9b59b6; padding: 20px; margin-bottom: 20px;">
+<div align="center" style="border: 2px solid #9b59b6; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <h3>Contribution Visual Representation</h3>
-  <img src="https://via.placeholder.com/800x200/3498db/ffffff?text=Contribute+Here%21">
+  <img src="https://via.placeholder.com/800x200/3498db/ffffff?text=Contribute+Here%21" style="border-radius: 10px;">
 </div>
 
-<div align="center" style="border: 3px solid #2ecc71; padding: 20px; margin-bottom: 20px;">
+<div align="center" style="border: 2px solid #2ecc71; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <h3>Getting Started</h3>
   To get a local copy up and running follow these simple steps.
   <ol>
@@ -137,7 +137,7 @@ When I'm not coding, I enjoy hiking in the mountains, exploring new cuisines, an
   </ol>
 </div>
 
-<div align="center" style="border: 3px solid #f39c12; padding: 20px; margin-bottom: 20px;">
+<div align="center" style="border: 2px solid #f39c12; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <h3>Contribution Guidelines</h3>
   <ol>
     <li><strong>Check for open issues</strong> or open a new issue to start a discussion around a feature idea or a bug.</li>
