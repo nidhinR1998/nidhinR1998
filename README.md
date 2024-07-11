@@ -112,54 +112,44 @@ When I'm not coding, I enjoy hiking in the mountains, exploring new cuisines, an
 ---
 
 ## 🤝 Contribution
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/nidhinR1998/nidhinR1998/issues).
 
-If you want to contribute:
-1. **Fork the project**: Click on the "Fork" button at the top right corner of the repository page.
-2. **Clone your fork**: Use `git clone https://github.com/your-username/nidhinR1998.git` to clone your forked repository.
-3. **Create your feature branch**: Use `git checkout -b feature/AmazingFeature` to create a new branch.
-4. **Commit your changes**: Use `git commit -m 'Add some AmazingFeature'` to commit your changes.
-5. **Push to the branch**: Use `git push origin feature/AmazingFeature` to push your changes to your forked repository.
-6. **Open a pull request**: Go to your forked repository on GitHub and click on the "Compare & pull request" button.
+<div align="center" style="border: 3px solid #3498db; padding: 20px; margin-bottom: 20px;">
+  <h3>Contribution</h3>
+  Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/nidhinR1998/nidhinR1998/issues).
+</div>
 
-### How to Contribute
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKr0U50rvLxv3rS/giphy.gif" width="300" alt="Contribute">
-</p>
-
-Contributions are what make the open-source community such an amazing place to be, learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
----
-
-## 🎨 Contribution Visual Representation
-
-<p align="center">
+<div align="center" style="border: 3px solid #9b59b6; padding: 20px; margin-bottom: 20px;">
+  <h3>Contribution Visual Representation</h3>
   <img src="https://via.placeholder.com/800x200/3498db/ffffff?text=Contribute+Here%21">
-</p>
+</div>
 
-### Getting Started
+<div align="center" style="border: 3px solid #2ecc71; padding: 20px; margin-bottom: 20px;">
+  <h3>Getting Started</h3>
+  To get a local copy up and running follow these simple steps.
+  <ol>
+    <li><strong>Fork the Project</strong></li>
+    <li><strong>Clone the Repo</strong>: <code>git clone https://github.com/your-username/nidhinR1998.git</code></li>
+    <li><strong>Install Dependencies</strong>: <code>npm install</code></li>
+    <li><strong>Create a Feature Branch</strong>: <code>git checkout -b feature/AmazingFeature</code></li>
+    <li><strong>Commit Your Changes</strong>: <code>git commit -m 'Add some AmazingFeature'</code></li>
+    <li><strong>Push to Your Branch</strong>: <code>git push origin feature/AmazingFeature</code></li>
+    <li><strong>Open a Pull Request</strong></li>
+  </ol>
+</div>
 
-To get a local copy up and running follow these simple steps.
-
-1. **Fork the Project**
-2. **Clone the Repo**: `git clone https://github.com/your-username/nidhinR1998.git`
-3. **Install Dependencies**: `npm install`
-4. **Create a Feature Branch**: `git checkout -b feature/AmazingFeature`
-5. **Commit Your Changes**: `git commit -m 'Add some AmazingFeature'`
-6. **Push to Your Branch**: `git push origin feature/AmazingFeature`
-7. **Open a Pull Request**
-
-### Contribution Guidelines
-
-1. **Check for open issues** or open a new issue to start a discussion around a feature idea or a bug.
-2. **Fork the repository** on GitHub to start making your changes.
-3. **Write tests** for your changes.
-4. **Ensure the test suite passes**.
-5. **Make sure your code lints**.
+<div align="center" style="border: 3px solid #f39c12; padding: 20px; margin-bottom: 20px;">
+  <h3>Contribution Guidelines</h3>
+  <ol>
+    <li><strong>Check for open issues</strong> or open a new issue to start a discussion around a feature idea or a bug.</li>
+    <li><strong>Fork the repository</strong> on GitHub to start making your changes.</li>
+    <li><strong>Write tests</strong> for your changes.</li>
+    <li><strong>Ensure the test suite passes</strong>.</li>
+    <li><strong>Make sure your code lints</strong>.</li>
+  </ol>
+</div>
 
 ---
 
 ![Footer Banner](https://via.placeholder.com/800x200/2ecc71/ffffff?text=Let%27s+build+something+amazing+together%21)
 
 ---
-
