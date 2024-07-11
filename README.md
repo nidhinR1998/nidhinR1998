@@ -1,11 +1,9 @@
-# Hi there, I'm NIDHIN ! 👋
+# I'm NIDHIN ! 👋
 
-<!-- Add this at the top of your README.md file -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there%2C+Good+To+See+You+!+💙">
 </h1>
 
-<!-- Add this at the bottom of your README.md file -->
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+Profile!;I+am+a+Passionate+Developer;Let's+build+something+amazing+together!">
 </h2>
