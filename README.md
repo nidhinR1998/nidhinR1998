@@ -127,7 +127,7 @@ If you want to contribute:
   <img src="https://media.giphy.com/media/3o7TKr0U50rvLxv3rS/giphy.gif" width="300" alt="Contribute">
 </p>
 
-Contributions are what make the open source community such an amazing place to be, learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open-source community such an amazing place to be, learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 ### Getting Started
 
