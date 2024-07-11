@@ -14,26 +14,35 @@
 
 ## 🌱 Eager Learner
 I have a passion for:
-- ![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java)
-- ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?style=for-the-badge&logo=spring-boot)
-- ![HTML](https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html5)
-- ![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
-- ![Angular](https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=angular)
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+</p>
 
 ---
 
 ## 🚀 Collaborator
 I'm always on the lookout for exciting projects to collaborate on. Let's connect and create something extraordinary!
 
-![Collaboration Banner](https://via.placeholder.com/800x200/9b59b6/ffffff?text=Let%27s+Collaborate%21)
+<p align="center">
+  <img src="https://via.placeholder.com/800x200/9b59b6/ffffff?text=Let%27s+Collaborate%21">
+</p>
 
 ---
 
 ## 📬 Let's Connect
-Feel free to reach out to me:
-- **Email:** [nidhinrajesh1998@gmail.com](mailto:nidhinrajesh1998@gmail.com)
-- **LinkedIn:** [Nidhin Rajesh](https://www.linkedin.com/in/nidhin-r-7a2469222)
+<p align="center">
+  <a href="mailto:nidhinrajesh1998@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/nidhin-r-7a2469222">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
 ---
 
@@ -49,25 +58,27 @@ Check out my personal website: [nidhinr1998.com](https://nidhinr1998.github.io/n
 </p>
 
 ### Monthly Activity
-![Monthly Activity](https://img.shields.io/github/commit-activity/m/nidhinR1998/nidhinR1998?color=4c8bf5&style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/m/nidhinR1998/nidhinR1998?color=4c8bf5&style=for-the-badge">
+</p>
 
 ---
 
 ## 🛠️ Technologies & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java">
-  <img src="https://img.shields.io/badge/-Spring%20Boot-brightgreen?style=for-the-badge&logo=spring-boot">
-  <img src="https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html5">
-  <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3">
-  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript">
-  <img src="https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=angular">
-  <img src="https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git">
-  <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github">
-  <img src="https://img.shields.io/badge/-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code">
-  <img src="https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=sql">
-  <img src="https://img.shields.io/badge/-Oracle-red?style=for-the-badge&logo=oracle">
-  <img src="https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql">
-  <img src="https://img.shields.io/badge/-Abinitio-lightgrey?style=for-the-badge&logo=abinitio">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Abinitio-0078d7?style=for-the-badge&logo=databricks&logoColor=white">
 </p>
 
 ---
@@ -99,6 +110,16 @@ When I'm not coding, you might find me exploring new technologies, hiking, or re
 When I'm not coding, I enjoy hiking in the mountains, exploring new cuisines, and reading sci-fi novels.
 
 ---
+
+## 🤝 Contribution
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/nidhinR1998/nidhinR1998/issues).
+
+If you want to contribute:
+1. Fork the project.
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+4. Push to the branch (`git push origin feature/AmazingFeature`).
+5. Open a pull request.
 
 ![Footer Banner](https://via.placeholder.com/800x200/2ecc71/ffffff?text=Let%27s+build+something+amazing+together%21)
 
