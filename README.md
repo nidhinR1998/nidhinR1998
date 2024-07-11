@@ -70,9 +70,8 @@ When I'm not coding, you might find me exploring new technologies, hiking, or re
 - **Food Checklist Web App**: A web application for managing food checklists. [Repository Link](https://github.com/nidhinR1998/Food-Check-List-WebApp)
   ![Project Screenshot](https://via.placeholder.com/800x400.png?text=Food+Checklist+Web+App)
 
-- **Weather Application**: A Online weather checking Application based on city [Repository Link](https://github.com/nidhinR1998/SpringBoot_Web_Application)
-  ![Project Screenshot](https://via.placeholder.com/800x400.png
-text=Weather+Application)
+- **Weather Application**: A Online weather checking Application based on city. [Repository Link](https://github.com/nidhinR1998/SpringBoot_Web_Application)
+  ![Project Screenshot](https://via.placeholder.com/800x400.png?text=Weather+Application)
 
 ---
 
