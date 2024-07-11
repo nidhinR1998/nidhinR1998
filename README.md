@@ -1,4 +1,4 @@
-# I'm NIDHIN ! 👋
+# Hi there, I'm NIDHIN ! 👋
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there%2C+Good+To+See+You+!+💙">
@@ -43,8 +43,10 @@ Check out my personal website: [nidhinr1998.com](https://nidhinr1998.github.io/n
 ---
 
 ## 📈 GitHub Stats
-![Nidhin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhinR1998&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhinR1998&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nidhinR1998&show_icons=true&theme=radical" alt="Nidhin's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhinR1998&layout=compact&theme=radical" alt="Top Languages">
+</p>
 
 ### Monthly Activity
 ![Monthly Activity](https://img.shields.io/github/commit-activity/m/nidhinR1998/nidhinR1998?color=4c8bf5&style=for-the-badge)
@@ -52,19 +54,21 @@ Check out my personal website: [nidhinr1998.com](https://nidhinr1998.github.io/n
 ---
 
 ## 🛠️ Technologies & Tools
-![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?style=for-the-badge&logo=spring-boot)
-![HTML](https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Angular](https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=angular)
-![Git](https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code)
-![SQL](https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=sql)
-![Oracle](https://img.shields.io/badge/-Oracle-red?style=for-the-badge&logo=oracle)
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql)
-![Abinitio](https://img.shields.io/badge/-Abinitio-lightgrey?style=for-the-badge&logo=abinitio)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java">
+  <img src="https://img.shields.io/badge/-Spring%20Boot-brightgreen?style=for-the-badge&logo=spring-boot">
+  <img src="https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html5">
+  <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3">
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=angular">
+  <img src="https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git">
+  <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code">
+  <img src="https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=sql">
+  <img src="https://img.shields.io/badge/-Oracle-red?style=for-the-badge&logo=oracle">
+  <img src="https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql">
+  <img src="https://img.shields.io/badge/-Abinitio-lightgrey?style=for-the-badge&logo=abinitio">
+</p>
 
 ---
 
@@ -78,7 +82,7 @@ When I'm not coding, you might find me exploring new technologies, hiking, or re
 - **Food Checklist Web App**: A web application for managing food checklists. [Repository Link](https://github.com/nidhinR1998/Food-Check-List-WebApp)
   ![Project Screenshot](https://via.placeholder.com/800x400.png?text=Food+Checklist+Web+App)
 
-- **Weather Application**: A Online weather checking Application based on city. [Repository Link](https://github.com/nidhinR1998/SpringBoot_Web_Application)
+- **Weather Application**: An online weather checking application based on city. [Repository Link](https://github.com/nidhinR1998/SpringBoot_Web_Application)
   ![Project Screenshot](https://via.placeholder.com/800x400.png?text=Weather+Application)
 
 ---
