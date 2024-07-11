@@ -89,3 +89,10 @@ When I'm not coding, I enjoy hiking in the mountains, exploring new cuisines, an
 ---
 
 ![Footer Banner](https://via.placeholder.com/800x200/2ecc71/ffffff?text=Let%27s+build+something+amazing+together%21)
+
+---
+
+<!-- Add this at the bottom of your README.md file -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+Profile!;I+am+a+Passionate+Developer;Let's+build+something+amazing+together!">
+</h3>
