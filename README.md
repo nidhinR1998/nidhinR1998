@@ -7,9 +7,9 @@
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+Profile!;I+am+a+Passionate+Developer;Let's+build+something+amazing+together!">
 </h2>
-<p align="center">
+
 ![Welcome Banner](https://via.placeholder.com/800x100/3498db/ffffff?text=Welcome+to+My+GitHub+Profile!)
-</p>
+
 ---
 
 ## 🌱 Eager Learner
