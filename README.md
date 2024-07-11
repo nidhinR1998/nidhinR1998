@@ -1,5 +1,10 @@
 # Hi there, I'm NIDHIN ! 👋
 
+<!-- Add this at the top of your README.md file -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there%2C+I'm+NIDHIN+!+👋">
+</h1>
+
 ![Welcome Banner](https://via.placeholder.com/800x200/3498db/ffffff?text=Welcome+to+My+GitHub+Profile!)
 
 ---
@@ -91,8 +96,3 @@ When I'm not coding, I enjoy hiking in the mountains, exploring new cuisines, an
 ![Footer Banner](https://via.placeholder.com/800x200/2ecc71/ffffff?text=Let%27s+build+something+amazing+together%21)
 
 ---
-
-<!-- Add this at the bottom of your README.md file -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+Profile!;I+am+a+Passionate+Developer;Let's+build+something+amazing+together!">
-</h3>
