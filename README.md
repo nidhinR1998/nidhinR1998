@@ -129,6 +129,14 @@ If you want to contribute:
 
 Contributions are what make the open-source community such an amazing place to be, learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
+---
+
+## 🎨 Contribution Visual Representation
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x200/3498db/ffffff?text=Contribute+Here%21">
+</p>
+
 ### Getting Started
 
 To get a local copy up and running follow these simple steps.
@@ -149,20 +157,9 @@ To get a local copy up and running follow these simple steps.
 4. **Ensure the test suite passes**.
 5. **Make sure your code lints**.
 
-### Canvas for Contribution
-<p align="center">
-  <canvas id="myCanvas" width="800" height="200" style="background-color:#f1f1f1;"></canvas>
-  <script>
-    var canvas = document.getElementById("myCanvas");
-    var ctx = canvas.getContext("2d");
-    ctx.font = "30px Arial";
-    ctx.fillStyle = "blue";
-    ctx.fillText("Contribute Here!", 10, 50);
-  </script>
-</p>
-
 ---
 
 ![Footer Banner](https://via.placeholder.com/800x200/2ecc71/ffffff?text=Let%27s+build+something+amazing+together%21)
 
 ---
+
