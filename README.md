@@ -47,7 +47,7 @@ I'm always on the lookout for exciting projects to collaborate on. Let's connect
 ---
 
 ## 🌐 Visit My Website
-Check out my personal website: [www.nidhinr1998.com](https://nidhinr1998.github.io/nidhinportfolio/)
+Check out my personal website: [www.nidhinr.com](https://nidhinr1998.github.io/nidhinportfolio/)
 
 ---
 
