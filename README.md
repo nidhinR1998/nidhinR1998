@@ -54,7 +54,7 @@ Check out my personal website: [www.nidhinr1998.com](https://nidhinr1998.github.
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nidhinR1998&show_icons=true&theme=radical" alt="Nidhin's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/all-langs/?username=nidhinR1998&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhinR1998&layout=compact&theme=radical&v=1" alt="Top Languages">
 </p>
 
 ### Monthly Activity
