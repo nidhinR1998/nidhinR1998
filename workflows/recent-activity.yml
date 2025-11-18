@@ -1,0 +1,25 @@
+name: Update Recent Activity
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # Runs every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update README with recent GitHub activity
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: '⚡ Chore: Update README activity feed'
+          MAX_LINES: 5
+          TARGET_FILE: 'README.md'
+          SECTION_NAME: 'activity' # Matches the markers and ```
+
+---
+
+With these updates, your GitHub profile should now look incredibly polished, vibrant, and professional, with all dynamic elements loading reliably!
