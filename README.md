@@ -67,30 +67,22 @@ A results-driven **ETL Developer** and **Full Stack Enthusiast** with a proven t
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,aws" />
 </div>
 
-<br>
-<hr>
-
-### 💻 Language Focus
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-</div>
-
 ---
 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <p>Metrics fetched directly from GitHub API, ensuring maximum reliability:</p>
-  <img src="https://img.shields.io/github/stars/nidhinR1998?style=for-the-badge&label=Total%20Stars&color=FFD700&logo=github" alt="Total Stars"/>
-  <img src="https://img.shields.io/github/commits-since/nidhinR1998/nidhinR1998/main?style=for-the-badge&label=Commits%20(since%20last)&color=36BCF7&logo=github" alt="Commits"/>
-  <img src="https://img.shields.io/github/languages/count/nidhinR1998/nidhinR1998?style=for-the-badge&label=Total%20Languages&color=8A2BE2&logo=code" alt="Total Languages"/>
-  <img src="https://img.shields.io/github/commit-activity/w/nidhinR1998/nidhinR1998?style=for-the-badge&label=Weekly%20Activity&color=E34F26&logo=git" alt="Weekly Activity"/>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=nidhinR1998&show_icons=true&theme=radical&hide_border=true" alt="Nidhin's Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhinR1998&theme=default&hide_border=true" alt="Streak Stats" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhinR1998&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
@@ -208,10 +200,10 @@ A results-driven **ETL Developer** and **Full Stack Enthusiast** with a proven t
 
 ---
 
-### 🕒 Current Local Time
+### 🕒 Current Timezone Indicator
 
 <div align="center">
-  <img src="https://time-readme.vercel.app/api?tz=Asia/Kolkata&color=FF5722" alt="Time in Kochi, India"/>
+  <img src="https://img.shields.io/badge/Current_Timezone-IST_ (Asia%2FKolkata)-36BCF7?style=for-the-badge&logo=time&logoColor=white" alt="IST Timezone">
 </div>
 
 ### 🔄 Recent Activity Feed (Fully Automatic)
