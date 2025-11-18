@@ -95,7 +95,7 @@ A results-driven **ETL Developer** and **Full Stack Enthusiast** with a proven t
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhinR1998&theme=github-compact&hide_border=true&line=36BCF7&point=9DD0ED" alt="Commit Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhinR1998&theme=react&hide_border=true&line=36BCF7&bg_color=1F2937" alt="Commit Activity Graph" />
 </div>
 
 ---
