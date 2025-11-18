@@ -18,8 +18,4 @@ jobs:
           COMMIT_MSG: '⚡ Chore: Update README activity feed'
           MAX_LINES: 5
           TARGET_FILE: 'README.md'
-          SECTION_NAME: 'activity' # Matches the markers and ```
-
----
-
-With these updates, your GitHub profile should now look incredibly polished, vibrant, and professional, with all dynamic elements loading reliably!
+          SECTION_NAME: 'activity'
